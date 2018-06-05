@@ -1,0 +1,14 @@
+<h4>
+  List of Product type's:
+</h4>
+
+<table class="table table-sm table-hover">
+    <tr>
+      <td>Type's name:</td>
+      <td>Quantity</td>
+    </tr>
+     <tr *ngFor="let producttype of productTypeService.productTypeList">
+       <td> {{producttype.ProductTypeName}} </td>
+        <td>{{producttype.ProductTypeQuantity}} </td>
+      </tr>
+</table>

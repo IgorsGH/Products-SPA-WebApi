@@ -1,0 +1,684 @@
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\ApplicationInsights.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\ServerPart.dll.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\csc.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\csc.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\csc.rsp
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\csi.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\csi.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\csi.rsp
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.AppContext.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Console.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.IO.Compression.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.Claims.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.ValueTuple.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\vbc.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\vbc.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\vbc.rsp
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Antlr3.Runtime.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\EntityFramework.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\EntityFramework.SqlServer.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.Web.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Newtonsoft.Json.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Data.SQLite.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Data.SQLite.EF6.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Data.SQLite.Linq.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Net.Http.Formatting.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Cors.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Helpers.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Http.Cors.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Http.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Http.WebHost.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Optimization.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Razor.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.WebPages.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\WebGrease.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\EntityFramework.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\EntityFramework.SqlServer.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Data.SQLite.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Data.SQLite.dll.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Net.Http.Formatting.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Http.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Http.Cors.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Newtonsoft.Json.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Helpers.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Http.WebHost.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Optimization.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.Razor.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.WebPages.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Antlr3.Runtime.pdb
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\bin\Microsoft.AI.Web.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CopyComplete
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\scndTry\ServerPart\ServerPart\obj\Debug\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\ApplicationInsights.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\ServerPart.dll.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.rsp
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.rsp
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.AppContext.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Console.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.Compression.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Claims.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.ValueTuple.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.rsp
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Antlr3.Runtime.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\EntityFramework.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\EntityFramework.SqlServer.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Web.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Newtonsoft.Json.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.EF6.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.Linq.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Net.Http.Formatting.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Cors.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Helpers.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.Cors.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.WebHost.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Optimization.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Razor.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\WebGrease.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\EntityFramework.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\EntityFramework.SqlServer.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.dll.config
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Net.Http.Formatting.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.Cors.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Newtonsoft.Json.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Helpers.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.WebHost.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Optimization.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.Razor.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Antlr3.Runtime.pdb
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Web.xml
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CopyComplete
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\Sobesedovanie - testi\Empeek\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\ApplicationInsights.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\ServerPart.dll.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.AppContext.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Console.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.Compression.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Claims.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.ValueTuple.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Antlr3.Runtime.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\AutoMapper.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\EntityFramework.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\EntityFramework.SqlServer.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Web.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Newtonsoft.Json.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.EF6.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.Linq.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Net.Http.Formatting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Cors.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Helpers.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.Cors.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.WebHost.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Optimization.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Razor.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\WebGrease.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\AutoMapper.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\EntityFramework.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\EntityFramework.SqlServer.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.dll.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Net.Http.Formatting.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.Cors.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Newtonsoft.Json.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Helpers.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.WebHost.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Optimization.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.Razor.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Antlr3.Runtime.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Web.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CopyComplete
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\ApplicationInsights.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\ServerPart.dll.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\csc.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\csc.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\csc.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\csi.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\csi.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\csi.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.AppContext.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Console.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.IO.Compression.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.Claims.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.ValueTuple.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\vbc.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\vbc.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\vbc.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\VBCSCompiler.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Antlr3.Runtime.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\AutoMapper.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\EntityFramework.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\EntityFramework.SqlServer.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.Web.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Newtonsoft.Json.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Data.SQLite.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Data.SQLite.EF6.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Data.SQLite.Linq.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Net.Http.Formatting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Cors.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Helpers.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Http.Cors.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Http.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Http.WebHost.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Optimization.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Razor.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.WebPages.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.WebPages.Razor.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\WebGrease.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\AutoMapper.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\EntityFramework.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\EntityFramework.SqlServer.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Data.SQLite.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Data.SQLite.dll.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Net.Http.Formatting.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Http.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Http.Cors.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Newtonsoft.Json.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Helpers.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Http.WebHost.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Optimization.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.Razor.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.WebPages.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\System.Web.WebPages.Razor.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Antlr3.Runtime.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Microsoft.AI.Web.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\obj\Debug\ServerPart.csproj.CopyComplete
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\obj\Debug\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.Common.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.WebApi.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.Common.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - using DI Autofac\ServerPart\bin\Ninject.Web.WebApi.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop - with changes\ServerPart\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop - with changes\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop - with changes\ServerPart\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop - with changes\ServerPart\ServerPart\obj\Debug\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\ApplicationInsights.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\ServerPart.dll.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\csc.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\csc.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\csc.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\csi.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\csi.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\csi.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.AppContext.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Console.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.IO.Compression.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.Claims.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.ValueTuple.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\vbc.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\vbc.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\vbc.rsp
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\VBCSCompiler.exe
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Antlr3.Runtime.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Autofac.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Autofac.Integration.WebApi.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\AutoMapper.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\EntityFramework.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\EntityFramework.SqlServer.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.Web.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Newtonsoft.Json.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Data.SQLite.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Data.SQLite.EF6.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Data.SQLite.Linq.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Net.Http.Formatting.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Cors.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Helpers.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Http.Cors.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Http.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Http.WebHost.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Optimization.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Razor.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.WebPages.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.WebPages.Razor.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\WebGrease.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Antlr3.Runtime.pdb
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Autofac.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Autofac.Integration.WebApi.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\AutoMapper.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\EntityFramework.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\EntityFramework.SqlServer.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.Web.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\Newtonsoft.Json.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Data.SQLite.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Data.SQLite.dll.config
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Net.Http.Formatting.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Helpers.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Http.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Http.Cors.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Http.WebHost.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Razor.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.WebPages.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.WebPages.Razor.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\bin\System.Web.Optimization.xml
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\obj\Debug\ServerPart.csproj.CopyComplete
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\AngularJS\CRUD-withServer(ItemShop)\ItemShop\ServerPart - Automaper - Autofac\ServerPart\obj\Debug\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\ApplicationInsights.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\ServerPart.dll.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\ServerPart.pdb
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.exe
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.exe.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\csc.rsp
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.exe
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.exe.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\csi.rsp
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.AppContext.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Console.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.Compression.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Claims.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Threading.Thread.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.ValueTuple.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.exe
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.exe.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\vbc.rsp
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Antlr3.Runtime.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Autofac.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Autofac.Integration.WebApi.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\AutoMapper.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\EntityFramework.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\EntityFramework.SqlServer.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Web.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Newtonsoft.Json.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.EF6.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.Linq.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Net.Http.Formatting.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Cors.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Helpers.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.Cors.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.WebHost.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Mvc.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Optimization.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Razor.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\WebGrease.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Antlr3.Runtime.pdb
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Autofac.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Autofac.Integration.WebApi.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\AutoMapper.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\EntityFramework.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\EntityFramework.SqlServer.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.Web.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.ApplicationInsights.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\Newtonsoft.Json.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Data.SQLite.dll.config
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Net.Http.Formatting.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Helpers.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.Cors.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Http.WebHost.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Mvc.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Razor.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.WebPages.Razor.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\bin\System.Web.Optimization.xml
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csprojResolveAssemblyReference.cache
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CoreCompileInputs.cache
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.csproj.CopyComplete
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.dll
+C:\Users\NotAnIhor\source\repos\MyGitHubProjects\ItemShop\ServerPart\ServerPart\obj\Debug\ServerPart.pdb

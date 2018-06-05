@@ -1,0 +1,22 @@
+<form class="prod-form" #productForm="ngForm" (ngSubmit)="onSubmit(productForm)">
+  <input type="hidden" name="ProductId" #ProductId="ngModel" [(ngModel)]="productService.selectedProduct.ProductId">
+  
+  <div class="form-row">
+    <div class="form-group col-md-6">
+        <input class="form-control" name="ProductName" #ProductName="ngModel" [(ngModel)]="productService.selectedProduct.ProductName" required placeholder="Product name">
+        <div class="validation-error" *ngIf="ProductName.invalid && ProductName.touched">Name is required</div>
+    </div>
+    <div class="form-group col-md-6">
+        <input class="form-control" name="ProductTypeName" #ProductTypeName="ngModel" [(ngModel)]="productService.selectedProduct.ProductTypeName" required placeholder="Product type name">
+        <div class="validation-error" *ngIf="ProductTypeName.invalid && ProductTypeName.touched">Type is required</div>
+    </div>
+  </div>
+  <div class="form-row">
+      <div class="form-group col-md-8">
+        <button type="submit" [disabled]="!productForm.valid" class="btn btn-lg btn-block btn-info"><i class="far fa-save"></i> Submit</button>
+      </div>
+      <div class="form-group col-md-4">
+        <button type="button" class="btn btn-lg btn-block btn-secondary" (click)="resetForm(productForm)"><i class="fas fa-ban"></i> Reset</button>
+      </div>
+    </div>
+</form>
